@@ -5,7 +5,7 @@ ui-frontend-for-omotebako-mobileは、Latonaが提供するエッジアプリケ
 ## OMOTE-Bako のエッジコンピューティングアーキテクチャ  
 ui-frontend-for-omotebako-mobileは、下記の黄色い枠の部分のリソースです。  
 
-![OMOTE-BakoMobileアーキテクチャ](Documents/omotebako_architecture_20211013_mobile.png)
+![OMOTE-BakoMobileアーキテクチャ](Documents/omotebako_architecture_20211016_uifrontendmobile.png)
 
 ## UIの一例   
 下記の画像は、ui-frontend-for-omotebako-mobileによる実際のUIの一例です。      
